@@ -1,0 +1,5 @@
+{
+    "name": "five-nights-at-pedros",
+    "main": "electron-main.js",
+    "version": "1.2.2"
+}
